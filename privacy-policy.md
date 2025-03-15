@@ -45,4 +45,4 @@ Simple Focus（以下「当アプリ」）は、ユーザーのプライバシ�
 ## 5. お問い合わせ
 プライバシーポリシーに関するお問い合わせは、以下のメールアドレスまでご連絡ください：
 
-📧 support@example.com
+📧 personal-developer@yk-engineer.net
