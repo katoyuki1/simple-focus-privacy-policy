@@ -1,1 +1,2 @@
-# simple-focus-privacy-policy
+- [プライバシーポリシー](https://katoyuki1.github.io/simple-focus-privacy-policy/privacy-policy)
+- [利用規約](https://katoyuki1.github.io/simple-focus-privacy-policy/terms-of-service)
